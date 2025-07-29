@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","purvibots")
+OWNER_USERNAME = getenv("OWNER_USERNAME","RP_Lover_Baby")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MayaMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MehakMusicBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Maya")
+BOT_NAME = getenv("BOT_NAME" , "Jani")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Sonali")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Jani Music")
 # ---------------------------------------------------------
 
 
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TEAMPURVI/SONALI_MUSIC")
+SOURCE = getenv("SOURCE", "https://github.com/Jani-Music/JaniMusic")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/JaniPrivetRepo/Jani-Music",
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_badnam_xd")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ogNOGbs9JCFlNjk9")
-CHAT = getenv("CHAT", "https://t.me/+ogNOGbs9JCFlNjk9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
+CHAT = getenv("CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ STREAMI_PICS = [
 
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/w2m7np.jpg"
 )
 
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")

@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","RP_Lover_Baby")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Avengers_Owner")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MehakMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "SitaraMusicRobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Jani")
+BOT_NAME = getenv("BOT_NAME" , "sitara")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Jani Music")
+ASSUSERNAME = getenv("ASSUSERNAME" , "sitara Music")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8143754205))
+OWNER_ID = int(getenv("OWNER_ID", 7152072474))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/Jani-Music/JaniMusic")
+SOURCE = getenv("SOURCE", "https://github.com/AVENGERSOWNER1/Clone-music")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/JaniPrivetRepo/Jani-Music",
+    "https://github.com/AVENGERSOWNER1/Clone-music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
-CHAT = getenv("CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AvengersNetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ijVUQc7TNEUwNmNl")
+CHAT = getenv("CHAT", "https://t.me/+ijVUQc7TNEUwNmNl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 

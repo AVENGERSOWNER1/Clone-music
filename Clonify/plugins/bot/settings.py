@@ -100,7 +100,7 @@ async def gib_repo(client, CallbackQuery, _):
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton(text="‷𓆩᪵⟶͇̽[ɪ⃪ϻ̱̱֯༏𐏓⃪꯭𓆩꯭𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𔘓꯭𓃭͜ ⃟⛦⃕ ̶꯭𝅥ͦ𝆬 ⃪͢,", user_id=config.OWNER_ID)],
+                [InlineKeyboardButton(text="⎯᪵፝֟፝֟⎯꯭𓆩꯭꯭ 𐒰꯭ ᴠ꯭ ᴇ꯭ ɴ꯭ ɢ꯭ ᴇ꯭ ʀ꯭ 𝗌꯭ ꯭꯭🥂꯭꯭⃖𝆺꯭𝅥⎯꯭‌⎯꯭,", user_id=config.OWNER_ID)],
                 [InlineKeyboardButton(text="⌯ ᴄʟσsє ⌯", callback_data="close")]
             ]
         )
